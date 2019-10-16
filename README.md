@@ -1,4 +1,4 @@
-# oid | Órteses Inteligentemente Desenvolvidas
+# OID | Órteses Inteligentemente Desenvolvidas
 
 Temos o propósito de divulgar de forma open source novos projetos e planos de fabricação de órteses, com foco na qualidade e no custo baixo de fabricação.
 
