@@ -4,13 +4,13 @@ Temos o propósito de divulgar de forma open source novos projetos e planos de f
 
 ## Nossos Projetos
 
-# OID para PTC
+### OID para PTC
 
 - Modelo de órtese
 - Tese de bacharelado com roteiro de fabricação
 
 
-# Membros
+## Membros
 
 - Sérgio Fernando Lajarin
 - Mateus Molina
